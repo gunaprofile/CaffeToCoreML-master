@@ -40,14 +40,10 @@ coreml_model.save('FlowerClassifier.mlmodel')
 6) Then run the script using command ```python convert-script.py```.
 
 Voila! 2-3 minutes later you will have your FlowerClassifier.ml model present in your FlowerClassifier folder. 
-
-For those who want to skip the conversion part and directly use FlowerClassifier.mlmodel , you can download it here (https://drive.google.com/file/d/0B1ghKa_MYL6meDBHT2NaZGxkNzQ/view) . Please note that I have not uploaded this model in my project owing to size constraints. 
-
-Just download the .mlmodel, drag and drop it into your project directory and test the ap on different flowers in real world.
-
-***Final project looks like this:***
-
-<img width="465" alt="screen shot 2017-12-13 at 5 40 17 pm" src="https://user-images.githubusercontent.com/21070922/33938271-dbc2c69a-e02c-11e7-95a7-f3c0e608e59a.png">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22883945/38160668-0b08a2a6-34df-11e8-8728-cffdaa65e4d8.png" width="200" height="400"/>
+  <img src="https://user-images.githubusercontent.com/22883945/38160669-0b457ff0-34df-11e8-9b9a-b815e6e37608.png" width="200" height="400"/>
+</p>
 
 
 
